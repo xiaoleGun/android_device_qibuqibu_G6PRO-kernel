@@ -1,0 +1,11 @@
+//
+// Copyright (C) 2023 The LineageOS Project
+//
+// SPDX-License-Identifier: Apache-2.0
+//
+
+kernel_headers {
+    name: "generated_kernel_includes",
+    vendor_available: true,
+    recovery_available: true,
+}
